@@ -7,3 +7,6 @@ background-color: var(--cor-de-fundo);
 --cor-de-fundo: #63addd;
 --cor-de-texto: black;
 }
+header{
+display: flex;
+}
