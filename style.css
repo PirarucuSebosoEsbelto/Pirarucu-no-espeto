@@ -10,3 +10,7 @@ background-color: var(--cor-de-fundo);
 header{
 display: flex;
 }
+
+img{
+    width: 230;
+}
