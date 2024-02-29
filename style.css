@@ -9,6 +9,8 @@ background-color: var(--cor-de-fundo);
 }
 header{
 display: flex;
+align-items: center;
+    flex-direction: column-reverse;
 }
 
 img{
