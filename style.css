@@ -4,7 +4,7 @@ background-color: var(--cor-de-fundo);
 }
 
 :root{
---cor-de-fundo: #b6cbd8;
+--cor-de-fundo: #abbbc5;
 --cor-de-texto: black;
 --cor-do-cabeçalho: white;
 --cinza: #abbbc5;
