@@ -17,7 +17,7 @@ header{
     align-content: stretch;
     justify-content: space-evenly;
     background-color: var(--cor-do-cabeçalho);
-    border: 2px 2 2 0 solid var(--cor-de-texto);
+    border: 2px 2px 2px 0 solid var(--cor-de-texto);
 
 }
 
