@@ -28,6 +28,10 @@ img{
 
 }
 
+.imagem-1{
+    width: 20%;
+}
+
 .apresentacao{
     display: flex;
 }
