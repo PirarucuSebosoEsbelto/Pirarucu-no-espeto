@@ -44,3 +44,8 @@ img{
     border: 2px solid var(--cor-de-texto);
 
 }
+
+.colaterais{
+    display: flex;
+    border: 2px solid var(--cor-de-texto);
+}
