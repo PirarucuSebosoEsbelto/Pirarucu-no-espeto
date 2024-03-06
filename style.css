@@ -6,6 +6,7 @@ background-color: var(--cor-de-fundo);
 :root{
 --cor-de-fundo: #abbbc5;
 --cor-de-texto: black;
+--cor-do-cabeçalho: black;
 }
 header{
     display: flex;
@@ -14,6 +15,7 @@ header{
     flex-wrap: nowrap;
     align-content: stretch;
     justify-content: space-evenly;
+    background-color: var(--cor-do-cabeçalho);
 }
 
 img{
