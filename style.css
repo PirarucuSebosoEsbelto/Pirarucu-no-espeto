@@ -8,9 +8,12 @@ background-color: var(--cor-de-fundo);
 --cor-de-texto: black;
 }
 header{
-display: flex;
-align-items: center;
-    flex-direction: column-reverse;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: stretch;
+    justify-content: space-evenly;
 }
 
 img{
