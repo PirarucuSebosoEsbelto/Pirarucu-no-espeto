@@ -5,7 +5,7 @@ background-color: var(--cor-de-fundo);
 
 :root{
 --cor-de-fundo: #abbbc5;
---cor-de-texto: black;
+--cor-de-texto: white;
 --cor-do-cabeçalho: black;
 }
 header{
