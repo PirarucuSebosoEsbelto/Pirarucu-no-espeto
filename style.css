@@ -49,3 +49,7 @@ img{
     display: flex;
     border: 2px solid var(--cor-de-texto);
 }
+
+.efeitos-colaterais{
+    width: 20%;
+}
