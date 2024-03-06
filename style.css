@@ -27,3 +27,7 @@ img{
     width: 20%;
 
 }
+
+.apresentacao{
+    display: flex;
+}
