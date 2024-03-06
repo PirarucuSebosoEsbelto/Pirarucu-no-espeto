@@ -39,6 +39,6 @@ img{
 
 .apresentacao{
     display: flex;
-    background-color: var(--cor-do-cabeçalho);
+    background-color: var(--cinza);
 
 }
