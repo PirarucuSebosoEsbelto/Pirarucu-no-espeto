@@ -18,6 +18,9 @@ header{
     justify-content: space-evenly;
     background-color: var(--cor-do-cabeçalho);
     border: 2px solid var(--cor-de-texto);
+    margin: 5px 0;
+    padding: 15px;
+    border-radius: 20px;
 
 }
 
@@ -51,6 +54,9 @@ img{
 .colaterais{
     display: flex;
     border: 2px solid var(--cor-de-texto);
+    margin: 5px 0;
+    padding: 15px;
+    border-radius: 20px;
 }
 
 .efeitos-colaterais{
