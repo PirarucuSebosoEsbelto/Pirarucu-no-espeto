@@ -79,6 +79,6 @@ width: 40%;
     width: 20%;
 }
 footer{
-    background-color: black;
+    background-color: var(--cor-de-fundo);
     color: whitesmoke;
 }
