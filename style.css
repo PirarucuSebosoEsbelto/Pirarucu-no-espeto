@@ -49,6 +49,8 @@ img{
     margin: 5px 0;
     padding: 15px;
     border-radius: 20px;
+    flex-wrap: wrap;
+    justify-content: space-around;
 
 }
 
