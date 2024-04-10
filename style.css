@@ -71,11 +71,6 @@ img{
     border-radius: 20px;
 }
 
-.foto-equipe{
-
-width: 40%;
-}
-
 .efeitos-colaterais{
     width: 20%;
 }
@@ -83,6 +78,15 @@ width: 40%;
 .efeitos-colaterais{
     width: 20%;
 }
+
+.samuel{
+    width: 20px;
+}
+
+.thiago{
+    width: 20px;
+}
+
 footer{
     background-color: var(--cor-de-fundo);
     color: black;
