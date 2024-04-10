@@ -58,6 +58,9 @@ img{
     margin: 5px 0;
     padding: 15px;
     border-radius: 20px;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-around;
 }
 
 #equipe{
