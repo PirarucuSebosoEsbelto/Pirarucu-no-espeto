@@ -65,6 +65,11 @@ img{
     justify-content: space-around;
 }
 
+a{
+    color: red;
+    text-decoration:none;
+}
+
 #equipe{
     display: grid;
     grid-template-columns: 50% 50%;
