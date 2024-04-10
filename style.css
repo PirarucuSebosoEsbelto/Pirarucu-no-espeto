@@ -60,6 +60,20 @@ img{
     border-radius: 20px;
 }
 
+.equipe{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    text-align: center;
+}
+
+.foto-equipe{
+
+width: 40%;
+}
+
+.efeitos-colaterais{
+    width: 20%;
+
 .efeitos-colaterais{
     width: 20%;
 }
