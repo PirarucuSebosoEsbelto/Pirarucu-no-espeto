@@ -62,17 +62,13 @@ img{
 
 #equipe{
     display: grid;
-    grid-template-columns: 33% 33% 33%;
+    grid-template-columns: 70% 70% 70%;
     text-align: center;
     display: flex;
     border: 2px solid var(--cor-de-texto);
     margin: 5px 0;
     padding: 15px;
     border-radius: 20px;
-}
-
-.divisao-equipe{
-    width: 1500%;
 }
 
 .efeitos-colaterais{
