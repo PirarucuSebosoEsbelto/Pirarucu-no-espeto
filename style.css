@@ -62,7 +62,7 @@ img{
 
 #equipe{
     display: grid;
-    grid-template-columns: 70% 70% 70%;
+    grid-template-columns: 33% 33% 33%;
     text-align: center;
     display: flex;
     border: 2px solid var(--cor-de-texto);
