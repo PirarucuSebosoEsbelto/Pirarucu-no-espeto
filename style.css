@@ -116,4 +116,5 @@ footer{
     display: flex;
     flex-direction: row-reverse;
     align-items: flex-start;
+    margin: 5px 0;
 }
