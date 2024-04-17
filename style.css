@@ -97,5 +97,9 @@ a{
 footer{
     background-color: white;
     color: black;
+    border: 2px solid var(--cor-de-texto);
+    margin: 5px 0;
+    padding: 15px;
+    border-radius: 20px;
     
 }
