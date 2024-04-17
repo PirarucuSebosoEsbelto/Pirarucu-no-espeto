@@ -82,6 +82,7 @@ a{
     border-radius: 20px;
     justify-items: center;
     justify-content: center;
+    
 }
 .foto-equipe{
     width: 30%;
@@ -108,10 +109,7 @@ footer{
 }
 
 .vendedores{
-    display: grid;
-    justify-content: space-between;
-    align-items: start;
-    justify-items: start;
-    align-content: space-between;
-   
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-start;
 }
