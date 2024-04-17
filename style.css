@@ -51,6 +51,7 @@ img{
     border-radius: 20px;
     flex-wrap: wrap;
     justify-content: space-around;
+    align-items: center;
 
 }
 
@@ -63,6 +64,7 @@ img{
     flex-wrap: nowrap;
     flex-direction: row;
     justify-content: space-around;
+    align-items: center;
 }
 
 a{
