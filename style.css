@@ -116,5 +116,8 @@ footer{
     display: flex;
     flex-direction: row-reverse;
     align-items: flex-start;
-    margin: 40px 0;
+    border: 2px solid var(--cor-de-fundo);
+    margin: 5px 0;
+    padding: 15px;
+    border-radius: 20px;
 }
