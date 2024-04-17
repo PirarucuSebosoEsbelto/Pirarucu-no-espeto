@@ -95,6 +95,7 @@ a{
 }
 
 footer{
+    display: ;
     background-color: white;
     color: black;
     border: 2px solid var(--cor-de-texto);
