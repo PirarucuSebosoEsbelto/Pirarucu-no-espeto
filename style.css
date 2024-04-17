@@ -109,7 +109,7 @@ footer{
 
 .vendedores{
     display: grid;
-    justify-content: start;
+    justify-content: space-between;
     align-items: start;
     justify-items: start;
     align-content: space-between;
