@@ -81,7 +81,11 @@ a{
     padding: 15px;
     border-radius: 20px;
     justify-items: center;
-    justify-content: center;
+    flex-direction: row;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    align-content: stretch;
+    justify-content: space-around;
     
 }
 .foto-equipe{
